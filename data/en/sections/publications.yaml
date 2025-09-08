@@ -9,74 +9,80 @@ section:
   # hideTitle: true
 
 # filter buttons
-buttons:
-- name: All
-  filter: "all"
-- name: "Machine Learning"
-  filter: "machinelearning"
-- name: "Image Processing"
-  filter: "image-processing"
-- name: Security
-  filter: "security"
+# buttons:
+# - name: All
+#   filter: "all"
+# - name: "Machine Learning"
+#   filter: "machinelearning"
+# - name: "Image Processing"
+#   filter: "image-processing"
+# - name: Security
+#   filter: "security"
 
 # your publications
 publications:
-- title: An Example Paper on Machine Learning
+- title: Torus Surgery, Fibrations, Multisections, and Spun $4$-Manifolds
   publishedIn:
-    name: 2020 IEEE Region Symposium (TENSYMP)
-    date: 7 June 2020
-    url: https://example.com
+    name: ProQuest
+    date: 2024
+    url: https://www.proquest.com/docview/3086797138
   authors:
-  - name: Dr. Madman
-    url: https://example.com
-  - name: Dr. Lessmad
-    url: https://example.com
-  - name: Dr. Moremad
-    url: https://example.com
-  - name: Dr. Goodman
-    url: https://example.com
+  - name: Nicholas Meyer
+    url: https://nickmeyer.phd
   paper:
-    summary: Voluptate in id id voluptate laboris. Minim mollit aliquip sit aliqua ut exercitation voluptate eiusmod consequat pariatur sunt enim veniam. Velit esse tempor laboris anim tempor officia. Magna non labore duis do esse sit do ipsum culpa. Officia consequat id non duis culpa dolor. Excepteur magna non nostrud cupidatat aute aliqua aliquip.
-    url: https://example.com
-  categories: ["machinelearning","image-processing"]
-  tags: ["Machine Learning", "Autonomous Driving", "Computer Vision"]
+    summary: "A compact $n$-manifold $X$ is fibered if it is a fiber bundle where the fiber $F$ and base space $B$ are manifolds. Fibered manifolds are particularly nice, as they are essentially classified by their monodromy maps. Two common examples of 4-dimensional fibered manifolds are surface bundles over surfaces and 3-manifold bundles over the circle. \r\n\r\n The main focus of this dissertation is to investigate fibered 4-manifolds whose boundaries are the 3-torus and how these manifolds glue together to give new closed, fibered 4-manifolds. In particular, suppose W is diffeomorphic to $S^1\\times E_Y(K)$ where $Y$ is a closed, oriented 3-manifold and $K$ is a fibered knot in $Y$, or that $W$ is diffeomorphic to a $\\Sigma_{g,1}$-bundle over the torus, and let $W′$ be defined similarly. If $f:\\partial W' \\to \\partial W$ is an orientation-preserving diffeomorphism of the $T^3$ -boundary, we have that $X = W \\cup_f W'$ fibers over the circle.\r\n We also study spun 4-manifolds and construct 4-secting Morse 2-functions on these manifolds. Suppose that $Y$ is a compact, oriented, connected 3-manifold with connected boundary $F = \\partial Y$ and that $f:F \\times S^1 \\to F \\times S^1$ is an orientation-preserving diffeomorphism. Then, we show that the $f$-spin of $Y$ admits a $(2g - h; g)$ 4-section if $h \\neq -1$ or if $h = 1$ and $f$ is isotopic to the identity, where $h$ is the genus of $F$ and $g$ is the Heegaard genus of $Y$. This generalizes the work of Meier on trisections of spun 4-manifolds and of Kegel and Schmäschke on trisections of $4$-dimensional open book decompositions."
+    url: https://www.proquest.com/docview/3086797138
+  # categories: ["machinelearning","image-processing"]
+  # tags: ["Machine Learning", "Autonomous Driving", "Computer Vision"]
 
-- title: An Sample Paper on Image Processing
+- title: PAnts distances of knotted surfaces in $4$-manifolds
   publishedIn:
-    name: 2020 IEEE Region Symposium (TENSYMP)
-    date: 7 June 2020
-    url: https://example.com
+    name: arXiv, Submitted.
+    date: 26 July 2023
+    url: https://arxiv.org/abs/2307.13874
   authors:
-  - name: Dr. Madman
-    url: https://example.com
-  - name: Dr. Lessmad
-    url: https://example.com
-  - name: Dr. Moremad
-    url: https://example.com
-  - name: Dr. Goodman
-    url: https://example.com
+  - name: Román Aranda
+    url: https://romanaranda123.wordpress.com/
+  - name: Sarah  Blackwell
+    url: https://seblackwell.com/
+  - name: Devashi Gulati
+    url: https://www.linkedin.com/in/devashigulati/
+  - name: Homayun Karimi
+    url: https://ms.mcmaster.ca/~karimih/
+  - name: Geunyoung Kim
+    url: https://sites.google.com/view/geunyoungkim
+  - name: Nicholas Meyer
+    url: https://nickmeyer.phd
+  - name: Puttipong Pongtanapaisan
+    url: https://puttipongtanapaisan.wordpress.com/
   paper:
-    summary: Ullamco magna minim cupidatat Lorem ea ex aliqua fugiat et. Dolor quis cillum ea duis irure et commodo aliquip consectetur ullamco labore ut anim nisi. Commodo reprehenderit est consectetur tempor adipisicing occaecat exercitation amet do aliquip dolor do irure. Labore officia ut magna pariatur reprehenderit et ex sit sunt. Magna proident ullamco adipisicing sit.
-    url: https://example.com
-  categories: ["image-processing"]
-  tags: ["Image Processing", "Computer Vision"]
+    summary: We define a pants distance for knotted surfaces in 4-manifolds which generalizes the complexity studied by Blair-Campisi-Taylor-Tomova for surfaces in the 4-sphere. We determine that if the distance computed on a given diagram does not surpass a theoretical bound in terms of the multisection genus, then the (4-manifold, surface) pair has a simple topology. Furthermore, we calculate the exact values of our invariants for many new examples such as the spun lens spaces. We provide a characterization of genus two quadrisections with distance at most six.
+    url: https://arxiv.org/abs/2307.13874
+  # categories: ["image-processing"]
+  # tags: ["Image Processing", "Computer Vision"]
 
-- title: An Example Paper on Security
+- title: Tri-plane diagrams for simple surfaces in $S^4$
   publishedIn:
-    name: 2020 IEEE Region Symposium (TENSYMP)
-    date: 7 June 2020
-    url: https://example.com
+    name: Journal of Knot Theory and its Ramifications
+    date: 27 June 2023
+    url: https://www.worldscientific.com/doi/10.1142/S0218216523500414
   authors:
-  - name: Dr. Madman
-    url: https://example.com
-  - name: Dr. Lessmad
-    url: https://example.com
-  - name: Dr. Moremad
-    url: https://example.com
-  - name: Dr. Goodman
-    url: https://example.com
+  - name: Wolfgang Allred
+  - name: Manuel Aragón
+  - name: Zack Dooley
+  - name: Alexander Goldman
+  - name: Yucong Learning
+  - name: Isaiah Martinez
+  - name: Nicholas Meyer
+    url: https://nickmeyer.phd
+  - name: Devon Peters
+  - name: Scott Warrander
+  - name: Ana Wright
+    url: https://anawright.github.io/
+  - name: Alex Zupan
+    url: https://sites.google.com/view/alexzupan
   paper:
-    summary: Dolor ad cupidatat pariatur nulla ipsum ex ullamco nisi anim ullamco. Dolore elit esse in exercitation minim aliqua. Amet velit incididunt magna laboris. Proident reprehenderit deserunt ad officia duis dolor. Tempor nostrud ullamco ullamco sint deserunt cupidatat irure minim consectetur nulla adipisicing sunt.
-    url: https://example.com
-  categories: ["security"]
-  tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]
+    summary: Meier and Zupan proved that an orientable surface $\\mathcal{K}$ in $S^4$ admits a tri-plane diagram with zero crossings if and only if $\mathcal{K}$ is unknotted. We determine the minimal crossing numbers of nonorientable unknotted surfaces in $S^4$, proving that $c(\\mathcal{P}^{n,m}) = \\max\\{1,|n-m|\\}$, where $\\mathcal{P}^{n,m}$ denotes the connected sum of $n$ unknotted projective planes with normal Euler number $+2$ and $m$ unknotted projective planes with normal Euler number $-2$. In addition, we convert Yoshikawa's table of knotted surface ch-diagrams to tri-plane diagrams, finding the minimal bridge number for each surface in the table and providing upper bounds for the crossing numbers.
+    url: https://www.worldscientific.com/doi/10.1142/S0218216523500414
+  # categories: ["security"]
+  # tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]
