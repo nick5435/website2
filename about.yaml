@@ -19,7 +19,7 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am an Assistant Professor of Mathematics at the University of Central Missouri. I did my PhD at the University of Nebraska — Lincoln and was advised by Alex Zupan. My current interests are primarily in the geometric and algebraic topology of 3- and 4-manifolds. In particular, I study knot theory in dimensions 3 and 4, Heegaard splittings of 3-manifolds, and trisections of 4-manifolds. In addition, I am interested in the computational aspects of these areas, particularly computational algebraic topology and computational knot theory. A copy of my CV is available [here](/files/meyer_cv.pdf).'
+summary: "I am an Assistant Professor of Mathematics at the University of Central Missouri. I did my PhD at the University of Nebraska — Lincoln and was advised by Alex Zupan. My current interests are primarily in the geometric and algebraic topology of 3- and 4-manifolds. In particular, I study knot theory in dimensions 3 and 4, Heegaard splittings of 3-manifolds, and trisections of 4-manifolds. In addition, I am interested in the computational aspects of these areas, particularly computational algebraic topology and computational knot theory. A copy of my CV is available [here](/files/meyer_cv.pdf)."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -39,7 +39,7 @@ socialLinks:
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
-- title: "My Resume"
+- title: "My CV"
   url: "files/meyer_cv.pdf"
 
 # Show your badges
