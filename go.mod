@@ -1,6 +1,5 @@
-module github.com/hugo-toha/hugo-toha.github.io
-
-go 1.21
+module github.com/nick5435/website2
+go 1.25
 
 require github.com/hugo-toha/toha/v4 v4.10.0 // indirect
 
