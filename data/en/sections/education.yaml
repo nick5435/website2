@@ -39,6 +39,7 @@ degrees:
   extracurricularActivities: #(optional)
   - Astronomy Club, President
   - Math-Stat Club, President
+  - Physics Club, Treasurer
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/university.jpg
   # grade: #(optional)
