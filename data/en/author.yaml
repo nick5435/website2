@@ -6,7 +6,7 @@ greeting: "Hi, I'm"
 image: "images/author/nick.jpg"
 # give your some contact information. they will be used in the footer
 contactInfo:
-  email: "nmeyer@ucmo.edu"
+  email: "nick@nickmeyer.phd"
   github: nick5435
   linkedin: nicholas-meyer-918b72b7
 

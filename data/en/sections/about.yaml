@@ -23,7 +23,7 @@ summary: 'I am an Assistant Professor of Mathematics at the University of Centra
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "nmeyer@ucmo.edu"
+  url: "nick@nickmeyer.phd"
 
 - name: Github
   icon: "fab fa-github"
@@ -54,7 +54,7 @@ socialLinks:
 # For example, you can put link for your resume.
 resourceLinks:
 - title: "My CV"
-  url: "files/resume.pdf"
+  url: "files/meyer_cv.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
